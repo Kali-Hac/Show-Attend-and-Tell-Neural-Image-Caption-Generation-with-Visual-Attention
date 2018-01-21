@@ -1,4 +1,10 @@
-# Show, Attend and Tell 
+# Show, Attend and Tell
+本仓库包含原论文、自己对论文的中文翻译、基于Tensorflow框架的模型实现(参考开源的基础上做了一些修改) 
+
+**我对原论文的详细解析：[http://yikunhaocong.com/2018/01/20/Visual-Attention/](http://yikunhaocong.com/2018/01/20/Visual-Attention/)** 
+
+**本仓库模型算法实现细节将在不久后更新**
+
 TensorFlow implementation of [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)
 
 <br/>
@@ -12,7 +18,8 @@ TensorFlow implementation of [Show, Attend and Tell: Neural Image Caption Genera
 
 原作者 theano 代码: https://github.com/kelvinxu/arctic-captions 
 
-另外一个Tensorflow实现: https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow
+Tensorflow实现: 
+https://github.com/yunjey/show-attend-and-tell
 
 <br/>
 
